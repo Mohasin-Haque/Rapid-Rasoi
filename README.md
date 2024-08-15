@@ -1,2 +1,2 @@
 # Rapid-Rasoi
-Created with CodeSandbox
+This website is for Rapid Rasoi. One of the India's top ten startups. 
